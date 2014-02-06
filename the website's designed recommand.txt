@@ -1,0 +1,7 @@
+1.style:颜色和背景图片的挑选
+	1.背景图片
+	2.主题颜色
+	3.按钮风格
+	4.导航栏，标题栏素材收集
+2.images收集建议：图片放在temporaries/images下
+3.PS半成品放在temporaries/PS下
